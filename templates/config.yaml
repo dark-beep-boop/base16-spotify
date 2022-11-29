@@ -1,3 +1,7 @@
 default:
     extension: .ini
     output: colors
+
+sleek:
+    extension: .ini
+    output: colors
